@@ -29,4 +29,5 @@ TIME | waktu_masuk | 2022-08-17 12:00:00
 TIME | waktu_keluar | 2022-08-17 13:45:00
 
 ## UX Wireframe
-![judul]()
+![judul](![proposal paw](https://user-images.githubusercontent.com/78301902/190287392-c7fb7c5b-a158-4983-b785-a922588b326e.jpg)
+)
