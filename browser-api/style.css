@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+
+#demo-localstorage{
+    display: flex;
+    flex-direction: row;
+}
+
+#forn-isian{
+    flex-grow: 1;
+}
+
+#form-isian form{
+    display: flex;
+    flex-direction: column;
+}
+
+#table-output{
+    flex-grow: 1;
+    padding: 12px;    
+}
+
+#table-output table{
+    border-collapse: collapse;
+}

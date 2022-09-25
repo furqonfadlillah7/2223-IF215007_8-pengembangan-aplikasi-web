@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Demo Document Selection, Event, & Localstorage</h2>
+    <div id="demo-localstorage">
+        <div id="form-isian">
+            <form>
+                <input type="text" placeholder="Nama Mahasiswa" name="nama">
+                <input type="text" placeholder="NIM" name="nim">
+                <select name="" id="jurusan">
+                    <option value="Teknik Informatika">Teknik Informatika</option>
+                    <option value="Teknik Elektro">Teknik Elektro</option>
+                    <option value="Fisika">Fisika</option>
+                </select>
+                <button id="submit-button">
+                    Submit
+                </button>
+            </form>
+        </div>
+        <div id="table-output">
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>No.</th>
+                        <th>Nama</th>
+                        <th>NIM</th>
+                        <th>Jurusan</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="demo-fetch">
+        <h1>Demo Fetch API</h1>
+    </div>
+
+    <script>
+
+        tableLocalStorage();
+        
+        // 2. Buat event, jika tombol submit di klik, maka
+        const submit_btn = document.getElementById("submit-button");
+        
+        submit_btn.onclick = function(klik_kejadianObjek){
+            klik_kejadianObjek.preventDefault();
+
+            // 1. Ambil nilai Nama Mahasiswa, NIM, dan Jurusan
+            const elementNama = document.getElementsByName("nama")[0];
+            const elementNim = document.getElementsByName("nim")[0];
+            const elementJurusan = document.getElementsByName("jurusan")[0];
+            
+            const nama = elementNama.value;
+            const nim = elementNim.value;
+            const jurusan = elementJurusan.value;
+
+            const barisTabel = {
+                nama: nama,
+                nim: nim,
+                jurusan: jurusan,
+            };
+
+            console.log("Baris Tabel :", barisTabel);
+
+            let arrayBarisTabel = []
+
+            arrayBarisTabel.push(barisTabel);
+
+            console.log("array baris tabel : ", arrayBarisTabel);
+
+            
+            const arrayBarisTabelString_LocalStorage = localStorage.getItem("arrayBarisTabelString");
+            
+            let arrayBarisTabel_LocalStorage = JSON.parse(arrayBarisTabelString_LocalStorage);
+            
+            arrayBarisTabel_LocalStorage.push(barisTabel);
+            
+            const arrayBarisTabelString = JSON.stringify(arrayBarisTabelLS);
+            localStorage.setItem("arrayBarisTabelString", arrayBarisTabelString);
+
+            tableLocalStorage();
+        }
+
+        console.log(tombolSubmit);
+
+        // Tampilkan data dari localStorage ke table output
+        function isiTableDariLocalStorage() {
+            console.log("tableLocalStorage");
+            const elTbody = document.querySelector("#table-output"); 
+
+            const arrayBarisTabelString = localStorage.getItem("arrayBarisTabelString");
+            const arrayBarisTabel = JSON.parse(arrayBarisTabelString);
+
+            console.log("hidup kembali !", arrayBarisTabel);
+
+            elTbody.innerHTML = ``;
+
+            arrayBarisTabel.forEach(barisTabel => {
+               elTbody.innerHTML += `
+                <tr>
+                    <td>ha</td>
+                    <td>${barisTabel.nama}</td>
+                    <td>${barisTabel.nim}</td>
+                    <td>${barisTabel.jurusan}</td>
+                </tr>
+               `;
+            });
+
+
+            console.log(elTbody);
+        }
+    </script>
+</body>
+</html>
