@@ -36,7 +36,12 @@ https://youtu.be/4UWPADXcU4g
 | 18 | PHP DB - Web Service | ![18-1](https://user-images.githubusercontent.com/78301902/209465759-584d9c95-f473-4a68-a555-953a98466344.jpg) |
 | | | ![18-2](https://user-images.githubusercontent.com/78301902/209465765-f973873f-960a-4ea0-81f0-d105b3c16c3a.jpg) |
 | 19 | OOP-based PHP Project using Composer | |
-| 20 | Deploy PHP Project to Cpanel | |
+| 20 | Deploy PHP Project to Cpanel | ![20-1](https://user-images.githubusercontent.com/78301902/209466403-4ff2327a-da7b-4919-b62c-da858404af96.jpg) |
+| | | ![20-2](https://user-images.githubusercontent.com/78301902/209466416-b75efd57-e9c7-477a-9a3c-e2bef8ac6d51.jpg) |
+| | | ![20-3](https://user-images.githubusercontent.com/78301902/209466419-17afa4ea-71b7-4173-b3cd-d31c9b6133e8.jpg) |
+| | | ![20-4](https://user-images.githubusercontent.com/78301902/209466423-702e39e9-e797-4978-b6c7-77fe04d51767.jpg) |
+| | | ![20-5](https://user-images.githubusercontent.com/78301902/209466425-60b8a9ed-5add-460f-98b6-2b07f5577e8f.jpg) |
+| | | ![20-6](https://user-images.githubusercontent.com/78301902/209466428-69d96864-6f58-44f9-b743-35f981876fe4.jpg) |
 | 21 | HTML Responsive Layout with Bootstrap | ![21-1](https://user-images.githubusercontent.com/78301902/209458464-ce3ed1c1-dfbd-456e-928c-c95536b46517.jpg) |
 | | | ![21-2](https://user-images.githubusercontent.com/78301902/209458466-277bd06c-f92d-4b4f-a579-19620cf849f6.jpg) |
 | 22 | Single Page App with React & React-router | ![22-1](https://user-images.githubusercontent.com/78301902/209458446-3d11bf5f-f737-411e-8111-ea8533177ef3.jpg) |
