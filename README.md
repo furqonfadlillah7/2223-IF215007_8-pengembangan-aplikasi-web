@@ -30,7 +30,10 @@ https://youtu.be/4UWPADXcU4g
 | 14 | Javascript Data Transformation | ![14-1](https://user-images.githubusercontent.com/78301902/209465568-99df5e99-831b-4646-b909-50b032eb3a9e.jpg) |
 | | | ![14-2](https://user-images.githubusercontent.com/78301902/209465573-afd7768d-204b-4ba4-9874-c02d42372247.jpg) |
 | 15 | Browser API - Event Handling, Local Storage, Element manipulation | ![15-1](https://user-images.githubusercontent.com/78301902/209458942-9f9c991f-aa4a-4133-933e-28e2e696d413.jpg) |
-| 16 | HTTP GET & POST using Form Action and Fetch API | |
+| 16 | HTTP GET & POST using Form Action and Fetch API | ![16-3](https://user-images.githubusercontent.com/78301902/209472866-3763c3ac-27a8-435c-8914-9bb40250bfa3.jpg) |
+| | | ![16-4](https://user-images.githubusercontent.com/78301902/209472872-f341675b-5fb0-4092-a7a7-15a862139268.jpg) |
+| | | ![16-1](https://user-images.githubusercontent.com/78301902/209472875-ff902a7c-68af-4956-acb7-5c785aa6bc84.jpg) |
+| | | ![16-2](https://user-images.githubusercontent.com/78301902/209472880-66790dd3-e20b-4c13-895f-1570a87109d3.jpg) |
 | 17 | PHP DB - Dynamic Web Page | ![17-1](https://user-images.githubusercontent.com/78301902/209465827-bd86df3e-3c83-403d-aa77-40ca90f36cee.jpg) |
 | | | ![17-2](https://user-images.githubusercontent.com/78301902/209465829-156a26a0-6439-4744-a947-241cb5a17e4d.jpg) |
 | 18 | PHP DB - Web Service | ![18-1](https://user-images.githubusercontent.com/78301902/209465759-584d9c95-f473-4a68-a555-953a98466344.jpg) |
