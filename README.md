@@ -27,11 +27,14 @@ https://youtu.be/4UWPADXcU4g
 | 12 | Domain registration | ![12-1](https://user-images.githubusercontent.com/78301902/209456175-a450c2cd-09f6-479e-8b6f-9117e78d5c22.jpg) |
 | 13 | HTML Responsive Layout with Media Query & Flexbox | ![13-1](https://user-images.githubusercontent.com/78301902/209463523-bb48c669-e882-4141-bed5-1e13bc71b925.jpg) |
 | | | ![13-2](https://user-images.githubusercontent.com/78301902/209463528-f5e14252-dd5c-4e59-afe3-5aa677a7bd85.jpg) |
-| 14 | Javascript Data Transformation | |
+| 14 | Javascript Data Transformation | ![14-1](https://user-images.githubusercontent.com/78301902/209465568-99df5e99-831b-4646-b909-50b032eb3a9e.jpg) |
+| | | ![14-2](https://user-images.githubusercontent.com/78301902/209465573-afd7768d-204b-4ba4-9874-c02d42372247.jpg) |
 | 15 | Browser API - Event Handling, Local Storage, Element manipulation | ![15-1](https://user-images.githubusercontent.com/78301902/209458942-9f9c991f-aa4a-4133-933e-28e2e696d413.jpg) |
 | 16 | HTTP GET & POST using Form Action and Fetch API | |
-| 17 | PHP DB - Dynamic Web Page | |
-| 18 | PHP DB - Web Service | |
+| 17 | PHP DB - Dynamic Web Page | ![17-1](https://user-images.githubusercontent.com/78301902/209465827-bd86df3e-3c83-403d-aa77-40ca90f36cee.jpg) |
+| | | ![17-2](https://user-images.githubusercontent.com/78301902/209465829-156a26a0-6439-4744-a947-241cb5a17e4d.jpg) |
+| 18 | PHP DB - Web Service | ![18-1](https://user-images.githubusercontent.com/78301902/209465759-584d9c95-f473-4a68-a555-953a98466344.jpg) |
+| | | ![18-2](https://user-images.githubusercontent.com/78301902/209465765-f973873f-960a-4ea0-81f0-d105b3c16c3a.jpg) |
 | 19 | OOP-based PHP Project using Composer | |
 | 20 | Deploy PHP Project to Cpanel | |
 | 21 | HTML Responsive Layout with Bootstrap | ![21-1](https://user-images.githubusercontent.com/78301902/209458464-ce3ed1c1-dfbd-456e-928c-c95536b46517.jpg) |
