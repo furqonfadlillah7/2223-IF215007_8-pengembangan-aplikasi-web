@@ -19,15 +19,16 @@ https://youtu.be/4UWPADXcU4g
 | 8 | NodeJS & NPM installation, operation & hello world | ![8-1](https://user-images.githubusercontent.com/78301902/209455564-78c7e599-32f3-4062-943c-2c8e751b70dc.jpg) |
 | | | ![8-2](https://user-images.githubusercontent.com/78301902/209455676-ad5e3543-e9ef-463a-a041-bca6d6ee124e.jpg) |
 | | | ![8-3](https://user-images.githubusercontent.com/78301902/209455678-333c4f13-1532-4516-988a-46da3947bf9c.jpg) |
-| 9 | Linux server operation | |
+| 9 | Linux server operation | ![9-1](https://user-images.githubusercontent.com/78301902/209463754-9ea656c5-007a-494f-81c8-5b2fa5816748.jpg) |
 | 10 | Nginx / Apache web server installation & operation | ![10-1](https://user-images.githubusercontent.com/78301902/209455751-394520f2-10cd-4edb-967a-0f2daf3b7b4b.jpg) |
 | | | ![10-2](https://user-images.githubusercontent.com/78301902/209455753-185b5df0-3c69-4b33-b7c8-5d4bcf92d22f.jpg) |
 | 11 | Cpanel operation | ![11-1](https://user-images.githubusercontent.com/78301902/209456127-ee80b693-c427-41ea-834e-a9a6228c7d90.jpg) |
 | | | ![11-2](https://user-images.githubusercontent.com/78301902/209456128-ece94c84-69a4-4148-8416-068af1b928e9.jpg) |
 | 12 | Domain registration | ![12-1](https://user-images.githubusercontent.com/78301902/209456175-a450c2cd-09f6-479e-8b6f-9117e78d5c22.jpg) |
-| 13 | HTML Responsive Layout with Media Query & Flexbox | |
+| 13 | HTML Responsive Layout with Media Query & Flexbox | ![13-1](https://user-images.githubusercontent.com/78301902/209463523-bb48c669-e882-4141-bed5-1e13bc71b925.jpg) |
+| | | ![13-2](https://user-images.githubusercontent.com/78301902/209463528-f5e14252-dd5c-4e59-afe3-5aa677a7bd85.jpg) |
 | 14 | Javascript Data Transformation | |
-| 15 | Browser API - Event Handling, Local Storage, Element manipulation | |
+| 15 | Browser API - Event Handling, Local Storage, Element manipulation | ![15-1](https://user-images.githubusercontent.com/78301902/209458942-9f9c991f-aa4a-4133-933e-28e2e696d413.jpg) |
 | 16 | HTTP GET & POST using Form Action and Fetch API | |
 | 17 | PHP DB - Dynamic Web Page | |
 | 18 | PHP DB - Web Service | |
