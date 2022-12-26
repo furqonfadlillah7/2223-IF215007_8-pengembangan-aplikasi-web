@@ -3,6 +3,9 @@
 LINK VIDEO UNTUK ANAK 5 SD
 https://youtu.be/4UWPADXcU4g
 
+atau klik dibawah ini!
+
+[![Build Status](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/4UWPADXcU4g)
 
 ### Workshop Class
 | No | Bentuk Asesmen | Asesmen |
