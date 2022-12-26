@@ -38,7 +38,8 @@ https://youtu.be/4UWPADXcU4g
 | | | ![17-2](https://user-images.githubusercontent.com/78301902/209465829-156a26a0-6439-4744-a947-241cb5a17e4d.jpg) |
 | 18 | PHP DB - Web Service | ![18-1](https://user-images.githubusercontent.com/78301902/209465759-584d9c95-f473-4a68-a555-953a98466344.jpg) |
 | | | ![18-2](https://user-images.githubusercontent.com/78301902/209465765-f973873f-960a-4ea0-81f0-d105b3c16c3a.jpg) |
-| 19 | OOP-based PHP Project using Composer | |
+| 19 | OOP-based PHP Project using Composer | ![19-1](https://user-images.githubusercontent.com/78301902/209553042-41c39919-6428-4e6c-9e1c-ce6bd6ccec5f.jpg) |
+| | | ![19-2](https://user-images.githubusercontent.com/78301902/209553049-25d9c5fc-8ca3-448f-8760-bbe551f7413c.jpg) |
 | 20 | Deploy PHP Project to Cpanel | ![20-1](https://user-images.githubusercontent.com/78301902/209466403-4ff2327a-da7b-4919-b62c-da858404af96.jpg) |
 | | | ![20-2](https://user-images.githubusercontent.com/78301902/209466416-b75efd57-e9c7-477a-9a3c-e2bef8ac6d51.jpg) |
 | | | ![20-3](https://user-images.githubusercontent.com/78301902/209466419-17afa4ea-71b7-4173-b3cd-d31c9b6133e8.jpg) |
@@ -55,5 +56,7 @@ https://youtu.be/4UWPADXcU4g
 | 23 | Dynamic Web Page using Laravel | ![23-1](https://user-images.githubusercontent.com/78301902/209458438-d809f98c-2214-48c1-92ff-f07ba34a3bf4.jpg) |
 | | | ![23-2](https://user-images.githubusercontent.com/78301902/209458439-4fb38061-8bf2-4204-abe0-2bf186a1b7a8.jpg) |
 | | | ![23-3](https://user-images.githubusercontent.com/78301902/209458442-d24edc84-e7c3-4751-8ec4-985b474f7959.jpg) |
-| 24 | Web Service using Slim | |
+| 24 | Web Service using Slim | ![24-1](https://user-images.githubusercontent.com/78301902/209586781-885f263f-9d15-4b21-868e-c0939fabd225.jpg) |
+| | | ![24-2](https://user-images.githubusercontent.com/78301902/209586786-55032f15-adf1-489b-90dc-002f183c9d6c.jpg) |
+| | | ![24-3](https://user-images.githubusercontent.com/78301902/209586804-0ecd98ba-0d2d-49da-911d-d157accc3e57.jpg) |
 | 25 | News Site using Wordpress | ![25-1](https://user-images.githubusercontent.com/78301902/209458434-479a5929-f9d6-4a89-81bb-cd1e09e960d2.jpg) |
